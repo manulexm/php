@@ -41,7 +41,6 @@ if($editar_id){
 <div id="main">
 <div id="geral">
 <div id="header">
-    <h1>Mural de pedidos</h1>
 </div>
 
 <?php if($recado_editar): ?>
